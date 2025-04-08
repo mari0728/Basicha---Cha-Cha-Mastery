@@ -171,6 +171,9 @@ nav .dropdown {
     animation: fadeInZoom 1s ease-in-out;
   }
 
+  #mission-vision {
+    scroll-margin-top: 100px;
+  }
 
 .home-section {
     background: #111;
